@@ -1,8 +1,8 @@
 # AWCA
 Ancient World Computational Analysis is made possible through the Data Science Discovery Program at UC Berkeley.
-2019: Adam Anderson, Alan Cha, Jason Webb, Kenan Jiang.
+- 2019: Adam Anderson, Alan Cha, Jason Webb, Kenan Jiang.
 - visiting scholars: Aleksi Sahala, Ilya Akdemir, Isaac Dalke.
-2020: Adam Anderson, Jason Webb, Kenan Jiang, Shrey Bhate.
+- 2020: Adam Anderson, Jason Webb, Kenan Jiang, Shrey Bhate.
 
 ## The project description
 The goal is to build a citation network from any collection of PDFs. The project is using a collection which I've scanned in the domain of ancient Near Eastern Studies, Classics, Archaeology, and Middle Eastern Languages (located on my Google Drive). The result of this project will make this collection more internationally accessible for research by scholars in these fields.
