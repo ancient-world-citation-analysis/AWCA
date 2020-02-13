@@ -14,7 +14,7 @@ The purpose of the following notebooks is to leverage existing NLP tools designe
 
 1. Optical Character Recognition (OCR): the Tesseract OCR in a JupyterNotebook. To use this the PDF must be converted to .TIF images. Coding credit goes to Alan Cha.
 2. Preprocessing notebooks: Two preprocessing Jupyter notebooks use the NLTK (natural languages tool kit) to process the OCR output as .TXT and .CSV files. These results will then be used for both citation analysis and bibliographic analysis. Coding credit to Kenan Jiang and Jason Webb.
-3. Topic modeling (LDA): the LDA results are assigned as weights for directed edges, with each source as the highest scoring documents within a topic, to each target drawn from the subsequent highest scoring documents within the same topic. The number of topics can be adjusted within the notebook, as can the number of edges drawn for each topic. Coding credit goes to Kenan Jiang.
+3. Topic modeling (LDA): the LDA results are assigned as weights for directed edges, with each source as the highest scoring documents within a topic, to each target drawn from the subsequent highest scoring documents within the same topic. The number of topics can be adjusted within the notebook, as can the number of edges drawn for each topic. Coding credit goes to Kenan Jiang. Visualization of the network can also be seen at Polinode (https://app.polinode.com/networks/explore/5e454320abfe3e0016cb91c5).
 4. Doc2Vec & Word2Vec: The results of the language model produce cosine similarity scores for any two documents in the dataset. The highest similarity scores (>.9) are assigned as weights in an undirected edge list. Coding credit goes to Kenan Jiang and Jason Webb.
 5. BERT implementation. Coding credit to Kenan Jiang.
 
