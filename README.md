@@ -2,7 +2,7 @@
 Ancient World Computational Analysis is made possible through the Data Science Discovery Program at UC Berkeley.
 - 2019: Adam Anderson, Alan Cha, Jason Webb, Kenan Jiang.
 - visiting scholars: Aleksi Sahala, Ilya Akdemir, Isaac Dalke.
-- 2020: Adam Anderson, Jason Webb, Kenan Jiang, Shrey Bhate.
+- 2020: Adam Anderson, Jason Webb, Kenan Jiang, Kewei Chen, Max Ziff, and Shrey Bhate.
 
 ## The project description
 The goal is to build a citation network from any collection of PDFs. The project is using a collection which I've scanned in the domain of ancient Near Eastern Studies, Classics, Archaeology, and Middle Eastern Languages (located on my Google Drive). The result of this project will make this collection more internationally accessible for research by scholars in these fields.
@@ -12,7 +12,7 @@ This series of Python Jupyter Notebooks implements different types of NLP tools 
  
 The purpose of the following notebooks is to leverage existing NLP tools designed for the ‘distant reading’ of an interrelated collection of texts in different languages. Each notebook applies the results of one type of language model to build an edge list for network analysis. These notebooks include implementations for the following tools:
 
-1. Optical Character Recognition (OCR): the Tesseract OCR in a JupyterNotebook. To use this the PDF must be converted to .TIF images. Coding credit goes to Alan Cha.
+1. Optical Character Recognition (OCR): the Tesseract OCR in a JupyterNotebook. To use this the PDF must be converted to .TIF images. Coding credit goes to Alan Cha & Kewei Chen.
 2. Preprocessing notebooks: Two preprocessing Jupyter notebooks use the NLTK (natural languages tool kit) to process the OCR output as .TXT and .CSV files. These results will then be used for both citation analysis and bibliographic analysis. Coding credit to Kenan Jiang and Jason Webb.
 3. Topic modeling (LDA): the LDA results are assigned as weights for directed edges, with each source as the highest scoring documents within a topic, to each target drawn from the subsequent highest scoring documents within the same topic. The number of topics can be adjusted within the notebook, as can the number of edges drawn for each topic. Coding credit goes to Kenan Jiang. Visualization of the network can also be seen at Polinode (https://app.polinode.com/networks/explore/5e454320abfe3e0016cb91c5).
 4. Doc2Vec & Word2Vec: The results of the language model produce cosine similarity scores for any two documents in the dataset. The highest similarity scores (>.9) are assigned as weights in an undirected edge list. Coding credit goes to Kenan Jiang and Jason Webb.
