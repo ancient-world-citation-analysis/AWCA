@@ -1,4 +1,5 @@
-# [AWCA](https://github.com/admndrsn/AWCA/blob/master/AWCA_Poster_AAContent_2020.png)
+# Ancient World Citation Analysis [AWCA](https://github.com/admndrsn/AWCA/blob/master/AWCA_Poster_AAContent_2020.pdf)
+![AWCA](https://github.com/admndrsn/AWCA/blob/master/AWCA_Poster_AAContent_2020.pdf)
 Ancient World Computational Analysis is made possible through the Data Science Discovery Program at UC Berkeley.
 
 # Current Team
