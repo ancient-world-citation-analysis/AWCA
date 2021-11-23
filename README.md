@@ -3,7 +3,7 @@
 Ancient World Computational Analysis is made possible through the Data Science Discovery Program at UC Berkeley.
 
 # Current Team
-- 2021: Adam Anderson (PI), [Andy Liu](https://github.com/AndyGLiu), [Circle Chen](https://github.com/CircleCly), [Dhruv Kanetkar](https://github.com/DhruvK0), [Kenan Jiang](https://github.com/Kenan-Jiang), [Kevin Gao](https://github.com/kevingao26), [Kuhu Sharma](https://github.com/kuhusharma), [Mackenzie Chen](https://github.com/mkziechan), [Peter Donovan](https://github.com/petervdonovan), [Sage Ren](https://github.com/UmbraVenus), [Tiffany Lee](https://github.com/tiffany510lee).
+- 2021: [Adam Anderson](https://github.com/admndrsn) (PI), [Andy Liu](https://github.com/AndyGLiu), [Circle Chen](https://github.com/CircleCly), [Dhruv Kanetkar](https://github.com/DhruvK0), [Kenan Jiang](https://github.com/Kenan-Jiang), [Kevin Gao](https://github.com/kevingao26), [Kuhu Sharma](https://github.com/kuhusharma), [Mackenzie Chen](https://github.com/mkziechan), [Peter Donovan](https://github.com/petervdonovan), [Sage Ren](https://github.com/UmbraVenus), [Tiffany Lee](https://github.com/tiffany510lee).
 - 2020: Adam Anderson (PI), Jason Webb, Kenan Jiang, Kewei Chen, Max Ziff, and Shrey Bhate.
 - 2019: Adam Anderson (PI), Alan Cha, Jason Webb, Kenan Jiang.
 - visiting scholars: Aleksi Sahala, Ilya Akdemir, Isaac Dalke.
